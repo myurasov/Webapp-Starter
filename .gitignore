@@ -1,0 +1,11 @@
+node_modules/
+jspm_packages/
+/environment
+/revision
+_revision.js
+_templates.js
+_environment.js
+build/
+src/index.html
+*.local*
+.DS_Store
